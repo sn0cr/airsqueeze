@@ -1,0 +1,28 @@
+{
+  "name": "airsqueeze",
+  "version": "0.0.1",
+  "description": "Creates a Airplay receiver for your squeezeboxes",
+  "main": "lib/index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/sn0cr/airsqueeze"
+  },
+  "author": "Sn0cr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sn0cr/airsqueeze/issues"
+  },
+  "homepage": "https://github.com/sn0cr/airsqueeze",
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "flags": "^0.1.3",
+    "ip": "^0.3.2",
+    "nicercast": "0.0.8",
+    "nodetunes": "^0.1.2",
+    "portastic": "0.0.1",
+    "squeezenode": "0.0.9"
+  }
+}
